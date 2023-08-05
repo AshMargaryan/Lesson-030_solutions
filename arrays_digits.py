@@ -1,3 +1,11 @@
+"""Task-Given a array of positive integers with name digits.
+   imagine digits presents an integer your task is to add one to that integer
+   Example:
+   digits = [1, 2, 3]
+   output - [1, 2, 4]"""
+
+
+
 digits = [9, 9, 9]
 
 answer = 0

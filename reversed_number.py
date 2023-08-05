@@ -1,3 +1,8 @@
+"""Given an integer n. Program must return reversed n.
+   Input - 1326
+   Output - 6231"""
+
+
 number = int(input())
 
 def reverse_num(num):

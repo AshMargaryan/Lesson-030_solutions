@@ -1,3 +1,7 @@
+"""Given an integer n. Program must return the closest prime number  to n.
+   Input - 10
+   Output - 11"""
+
 n = int(input())
 near_prime_number = 0
 range_num = n + 2

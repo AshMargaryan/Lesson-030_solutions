@@ -1,3 +1,8 @@
+"""Given a string 'sentence' when words are seperated by space. 
+   Program must return reversed words of that sentence.
+   Input - Man Bytes Dog
+   Output - Dog Bytes Man"""
+
 sentence = input()
 
 def reverse_sentece(sentence):
